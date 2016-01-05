@@ -1,3 +1,5 @@
+//Raspberrypiのコマンドプロンプトから直接動かしました。
+//
 $ sudo python
 >>> import RPi.GPIO as GPIO
 >>> GPIO.setmode(GPIO.BCM)
